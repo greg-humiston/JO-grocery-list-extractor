@@ -1,0 +1,14 @@
+.list-extraction-button {
+	width: 150px;
+	height: 100px;
+	background-color: white;
+	color: #535250;
+	border-color: #535250;
+	border-style: solid;
+	margin-left: 5px;
+}
+
+.list-extraction-button:hover {
+	color: black;
+	border-color: black;
+}
